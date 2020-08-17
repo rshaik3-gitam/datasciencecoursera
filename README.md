@@ -1,2 +1,2 @@
 # datasciencecoursera
-All my course related information zt one place
+All my course related information at one place
